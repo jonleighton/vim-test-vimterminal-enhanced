@@ -25,7 +25,7 @@ enable or disable.
 Using [vim-plug](https://github.com/junegunn/vim-plug), add
 
 ```
-Plug 'jonleighton/vim-test-vimterminal-enhancements'
+Plug 'jonleighton/vim-test-vimterminal-enhanced'
 ```
 
 To your `.vimrc` file, after the `Plug` line for `vim-test` itself. Then run `:PlugInstall`.
