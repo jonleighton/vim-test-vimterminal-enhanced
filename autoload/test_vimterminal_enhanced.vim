@@ -14,6 +14,7 @@ function! test_vimterminal_enhanced#run(cmd) abort
   tnoremap <buffer> <C-C> <C-W>N:q!<CR>
 
   wincmd p
+  wincmd =
 endfunction
 
 function! test_vimterminal_enhanced#close() abort
